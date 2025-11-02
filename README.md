@@ -9,7 +9,9 @@ Here you'll find projects demonstrating my skills in **data analysis, business i
 
 ## 📊 Featured Projects
 
-
+| Project | Tools | Description |
+|----------|--------|-------------|
+| [Customer Segmentation using RFM Analysis](https://github.com/yourusername/Customer-Segmentation-RFM) | Python, Power BI | Segmented 4,000+ retail customers using RFM metrics and K-Means clustering to identify Loyal, Potential, and Lost segments. Built an interactive Power BI dashboard to reveal spending behavior and target retention strategies. |
 
 ---
 
