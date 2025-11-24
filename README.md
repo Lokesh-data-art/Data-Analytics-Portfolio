@@ -13,6 +13,9 @@ Here you'll find projects demonstrating my skills in **data analysis, business i
 |----------|--------|-------------|
 | [Customer Segmentation using RFM Analysis](https://github.com/Lokesh-data-art/Customer-Segmentation-RFM-Analysis) | Python, Power BI | Segmented 4,000+ retail customers using RFM metrics and K-Means clustering to identify Loyal, Potential, and Lost segments. Built an interactive Power BI dashboard to reveal spending behavior and target retention strategies. |
 
+| [Student Engagement Analysis (365 Platform)](https://github.com/Lokesh-data-art/365-Platform-Student-Engagement-Analysis-Q4-2021-vs-Q4-2022-) | Excel, Statistics, Data Analysis | Analyzed Q4 2021–22 engagement to evaluate the impact of new XP, streak, and leaderboard features. Computed descriptive stats, confidence intervals, skewness/kurtosis, and performed t-tests for free vs paid students and US vs India. Results showed a significant rise in 2022 engagement, especially for paid users. |
+
+
 ---
 
 ## 🧠 About Me
